@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EA7A-F1C6
+
+ Directory of C:\Users\JSmith\Desktop\MyTestProject
+
+10/26/2018  09:31 AM    <DIR>          .
+10/26/2018  09:31 AM    <DIR>          ..
+10/26/2018  09:31 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  165,075,484,672 bytes free
